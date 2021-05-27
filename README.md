@@ -1,7 +1,7 @@
 # TodoList -Javascript
 
 Check it out from here!  
- https://shio-max.github.io/ToDoList01/.
+https://shio-max.github.io/TodoList/
 
 ＜機能＞  
 ・Title欄に新しい項目をAddボタンまたはEnterキーで追加  
